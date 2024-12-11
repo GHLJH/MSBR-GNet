@@ -8,9 +8,9 @@
 ## Dataset
  The Tupu sample library **BUCEA 2.0** can be downloaded at : https://www.dxkjs.com/tw/pro.html
 
-## Pretrained Model
- - [e2e_mask_rcnn_R_50_FPN_1x.pth](https://github.com/GHLJH/MSBR-GNet/releases/tag/Pretrained-Model/models/e2e_mask_rcnn_R_50_FPN_1x.pth)
- - [model_final](https://github.com/GHLJH/MSBR-GNet/releases/tag/Pretrained-Model/models/model_final.pth)
+## Pretrained Models
+ - [e2e_mask_rcnn_R_50_FPN_1x.pth](https://github.com/GHLJH/MSBR-GNet/releases/download/Pretrained-Model/e2e_mask_rcnn_R_50_FPN_1x.pth)
+ - [model_final](https://github.com/GHLJH/MSBR-GNet/releases/download/Pretrained-Model/model_final.pth)
 
 ## Acknowledgments
   Our MSBR-GNet is very grateful for the following open source codes.
