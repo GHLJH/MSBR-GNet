@@ -9,7 +9,7 @@
  The Tupu sample library **BUCEA 2.0** can be downloaded at : https://www.dxkjs.com/tw/pro.html
 
 ## Pretrained Model
-
+ - [e2e_mask_rcnn_R_50_FPN_1x.pth]() 
 
 
 ## Acknowledgments
